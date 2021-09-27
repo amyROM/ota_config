@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1626367577,
-      "filename": "amyROM-2.0-hero2lte-OFFICIAL.zip",
-      "id": "ff1c669cdd0736ab84db6a6f800f53de",
-      "romtype": "OFFICIAL",
-      "size": 641379650,
-      "url": "https://sabina.amyrom.ml/ota/hero2lte/amyROM-2.0-hero2lte-OFFICIAL.zip",
-      "version": "2.0-hero2lte-OFFICIAL"
+      "datetime": 1632762464,
+      "filename": "amyROM-2.2-hero2lte-OFFICIAL-20210927.zip",
+      "id": "4c7a4cfbd454dfe16efc22442ea35eaa",
+      "romtype": "",
+      "size": 676239172,
+      "url": "https://sabina.amyrom.ml/ota/hero2lte/amyROM-2.2-hero2lte-OFFICIAL-20210927.zip",
+      "version": "2.2-hero2lte-OFFICIAL-20210927"
     }
   ]
 }

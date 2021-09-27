@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1626382056,
-      "filename": "amyROM-2.0-herolte-OFFICIAL.zip",
-      "id": "f87d1fba5708f12fe320b607c4396177",
-      "romtype": "OFFICIAL",
-      "size": 641430649,
-      "url": "https://sabina.amyrom.ml/ota/herolte/amyROM-2.0-herolte-OFFICIAL.zip",
-      "version": "2.0-herolte-OFFICIAL"
+      "datetime": 1632764365,
+      "filename": "amyROM-2.2-herolte-OFFICIAL-20210927.zip",
+      "id": "dadcfefabeb0ef76edf516340c51505e",
+      "romtype": "",
+      "size": 676179076,
+      "url": "https://sabina.amyrom.ml/ota/herolte/amyROM-2.2-herolte-OFFICIAL-20210927.zip",
+      "version": "2.2-herolte-OFFICIAL-20210927"
     }
   ]
 }
