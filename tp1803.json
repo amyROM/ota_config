@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1641906697,
-      "filename": "amyROM-LTS-2.6-TP1803-OFFICIAL-20220111.zip",
-      "id": "dbf04bac62446586a8207565af8e13b3b6dd30465297c5c57d86363fc7fb4e0d",
+      "datetime": 1642270075,
+      "filename": "amyROM-LTS-2.6-TP1803-OFFICIAL-20220115.zip",
+      "id": "c9c1ee7aa38ebc3fa07541d6493bcbed4e3b8ea6868be5d64cb667e0d7ca0e41",
       "romtype": "OFFICIAL",
-      "size": 1059110896,
-      "url": "https://sabina.amyrom.ml/ota/rosie-lts/TP1803/amyROM-LTS-2.6-TP1803-OFFICIAL-20220111.zip",
-      "version": "2.6-TP1803-OFFICIAL-20220111"
+      "size": 1059091560,
+      "url": "https://sabina.amyrom.ml/ota/rosie-lts/TP1803/amyROM-LTS-2.6-TP1803-OFFICIAL-20220115.zip",
+      "version": "2.6-TP1803-OFFICIAL-20220115"
     }
   ]
 }
