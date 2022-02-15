@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1644600276,
+      "filename": "amyROM-LTS-2.6-griffin-OFFICIAL-20220211.zip",
+      "id": "a6f5bd5155e63b47556eda87cabc7bdfa4718e8665746bcb5f6c7181bda1863e",
+      "romtype": "OFFICIAL",
+      "size": 799827909,
+      "url": "https://sabina.amyrom.ml/ota/rosie-lts/griffin/amyROM-LTS-2.6-griffin-OFFICIAL-20220211.zip",
+      "version": "2.6-griffin-OFFICIAL-20220211"
+    }
+  ]
+}
